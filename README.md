@@ -11,7 +11,7 @@ Soy **Data Engineer** especializado en integración de datos, actualmente trabaj
 - 🤖 Desarrollé **chatbots** con BuilderBot y **LLMs** con Llama 3.2
 - 📊 Creé **dashboards interactivos** con Streamlit y mapas Leaflet
 - 🎓 Estudiante de **Tecnicatura en Programación** en UTN
-- 👯 Busco colaborar en proyectos de **Data Engineering** y **AI**
+- 👯 Mi interes es colaborar en proyectos de **Data Engineering** y **AI**
 - ✔ Pregúntame sobre **ETL**, **Python**, **Airflow** o **integración de datos**
 - 💼 Fuera del código, me gusta explorar nuevas tecnologías y metodologías ágiles
 - 📫 Contáctame en: **LinkedIn** para oportunidades profesionales
