@@ -6,15 +6,15 @@
 
 Soy **Data Engineer** especializado en integración de datos, actualmente trabajando en **Banco Credicoop** donde lidero la migración de proyectos de SAS Guide a Python. Me apasiona transformar datos en insights accionables y crear soluciones tecnológicas innovadoras.
 
-- 🔄 Actualmente trabajo en **migración SAS → Python** con Apache Airflow
-- 🏦 **Integración de datos bancarios** en producción
-- 🤖 Desarrollé **chatbots** con BuilderBot y **LLMs** con Llama 3.2
-- 📊 Creé **dashboards interactivos** con Streamlit y mapas Leaflet
-- 🎓 Estudiante de **Tecnicatura en Programación** en UTN
-- 👯 Mi interes es colaborar en proyectos de **Data Engineering** y **AI**
-- ✔ Pregúntame sobre **ETL**, **Python**, **Airflow** o **integración de datos**
-- 💼 Fuera del código, me gusta explorar nuevas tecnologías y metodologías ágiles
-- 📫 Contáctame en: **LinkedIn** para oportunidades profesionales
+- 🔄 Actualmente trabajo en **migración SAS → Python** con Apache Airflow.
+- 🏦 **Integración de datos bancarios** en producción.
+- 🤖 Desarrollé **chatbots** no conversaciones con BuilderBot para WhatsApp y conversaciones **LLMs** con Llama 3.2 y el motor Ollama.
+- 📊 Creé **dashboards interactivos** con Streamlit y mapas Leaflet.
+- 🎓 Estudiante de **Tecnicatura en Programación** en UTN.
+- 👯 Mi interes es colaborar en proyectos de **Data Engineering** y **AI**.
+- ✔ Pregúntame sobre **ETL**, **Python**, **Airflow** o **integración de datos**.
+- 💼 Fuera del código, me gusta explorar nuevas tecnologías y metodologías ágiles.
+- 📫 Contáctame en: **LinkedIn** para networking.
 
 ## Mis Habilidades
 
