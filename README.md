@@ -83,8 +83,14 @@ Soy **Data Engineer** especializado en integración de datos, actualmente trabaj
 <a href="https://www.linkedin.com/in/orlando-aguilera/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://github.com/rololevy">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.reddit.com/user/Only-Prompt-2171/">
+  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
+</a>
+<a href="https://substack.com/@orlandoaguilera">
+  <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719">
+</a>
+<a href="https://medium.com/@o.oaguilera">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 
 <h2>Estadísticas de GitHub:</h2> 
