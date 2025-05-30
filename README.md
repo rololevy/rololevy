@@ -1,4 +1,4 @@
-<h1 align="center"><b>¡Hola! Soy Orlando Aguilera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>¡Hola! Soy Orlando</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width=300px alt="Data Engineer" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -52,6 +52,11 @@ Soy **Data Engineer** especializado en integración de datos, actualmente trabaj
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/SAS-1F4E79?style=for-the-badge&logo=sas&logoColor=white">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/MicroStrategy-red?logo=microstrategy&logoColor=white">
+  <img src="https://img.shields.io/badge/Deploy%20on-Railway-0B0D0E?logo=railway&logoColor=white">
+  
+
 </span>
 
 <h4> IA & Machine Learning </h4>
