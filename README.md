@@ -94,9 +94,6 @@ Soy **Data Engineer** especializado en integración de datos, actualmente trabaj
 <a href="https://substack.com/@orlandoaguilera">
   <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719">
 </a>
-<a href="https://medium.com/@o.oaguilera">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
 
 <h2>Estadísticas de GitHub:</h2> 
 
