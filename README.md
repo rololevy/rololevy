@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
-Soy **Data Engineer** especializado en integración de datos, actualmente trabajando en **Banco Credicoop** donde lidero la migración de proyectos de SAS Guide a Python. Me apasiona transformar datos en insights accionables y crear soluciones tecnológicas innovadoras.
+Soy Data Engineer especializado en integración de datos, automatización de procesos y desarrollo de soluciones analíticas. Me enfoco en construir pipelines eficientes, modernizar flujos de trabajo y transformar datos en insights accionables. Me apasiona crear soluciones tecnológicas innovadoras combinando datos, Machine Learning, Python, inteligencia artificial y Cloud computing..
 
 - 🔄 Actualmente trabajo en **migración SAS → Python** con Apache Airflow.
 - 🏦 **Integración de datos bancarios** en producción.
